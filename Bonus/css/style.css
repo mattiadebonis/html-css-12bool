@@ -5,20 +5,20 @@
 }
 
 .mario-draghi{
+    background-position: center;
+  
     position: relative;
     height: 900px;
     background-image: url(../img/mario-draghi.jpeg);
     background-repeat: no-repeat;
-    background-size: cover;
     
 }
 
 .container{
     position: absolute;
-    top: 50%;
+    top: 40%;
     right: 5%;    
     width: 360px;    
-
 }
 
 
