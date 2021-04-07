@@ -1,15 +1,7 @@
 [class*="col-"]{
-
     float: left;
+  
 }
-
-.container::after{
-    content: "";
-    display: table;
-    clear: both;
-}
-
-
 
 /* larghezze colonne */
 .col-1{
