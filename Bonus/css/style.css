@@ -10,14 +10,36 @@
     background-image: url(../img/mario-draghi.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    background
+    
 }
 
 .container{
     position: absolute;
-    top: 70%;
+    top: 50%;
     right: 10%;    
     background-color: red;
-    
+    width: 360px;    
 
+}
+.container::after{
+    disppl
+}
+
+.row{
+    height: 10px;
+
+}
+
+.container::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.black{
+    background-color: black;
+}
+
+.green{
+    background-color: green;
 }
