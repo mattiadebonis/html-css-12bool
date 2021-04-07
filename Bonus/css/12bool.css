@@ -5,49 +5,156 @@
 
 /* larghezze colonne */
 .col-1{
-    width: calc((100%/12)*1);
+    width: calc((100%/36)*1);
 }
 
 .col-2{
-    width: calc((100%/12)*2);
+    width: calc((100%/36)*2);
 }
 
 .col-3{
-    width: calc((100%/12)*3);
+    width: calc((100%/36)*3);
 }
 
 .col-4{
-    width: calc((100%/12)*4);
+    width: calc((100%/36)*4);
 }
 
 .col-5{
-    width: calc((100%/12)*5);
+    width: calc((100%/36)*5);
 }
 
 .col-6{
-    width: calc((100%/12)*6);
+    width: calc((100%/36)*6);
 }
 
 .col-7{
-    width: calc((100%/12)*7);
+    width: calc((100%/36)*7);
 }
 
 .col-8{
-    width: calc((100%/12)*8);
+    width: calc((100%/36)*8);
 }
 
 .col-9{
-    width: calc((100%/12)*9);
+    width: calc((100%/36)*9);
 }
 
 .col-10{
-    width: calc((100%/12)*10);
+    width: calc((100%/36)*10);
 }
 
 .col-11{
-    width: calc((100%/12)*11);
+    width: calc((100%/36)*11);
 }
 
 .col-12{
-    width: calc((100%/12)*12);
+    width: calc((100%/36)*36);
 }
+
+.col-13{
+    width: calc((100%/36)*13);
+}
+
+.col-14{
+    width: calc((100%/36)*14);
+}
+
+.col-15{
+    width: calc((100%/36)*15);
+}
+
+.col-16{
+    width: calc((100%/36)*16);
+}
+
+.col-17{
+    width: calc((100%/36)*17);
+}
+
+.col-18{
+    width: calc((100%/36)*18);
+}
+
+.col-19{
+    width: calc((100%/36)*19);
+}
+
+.col-20{
+    width: calc((100%/36)*20);
+}
+
+.col-21{
+    width: calc((100%/36)*21);
+}
+
+.col-22{
+    width: calc((100%/36)*22);
+}
+
+.col-23{
+    width: calc((100%/36)*23);
+}
+
+.col-24{
+    width: calc((100%/36)*24);
+}
+
+.col-25{
+    width: calc((100%/36)*25);
+}
+
+.col-26{
+    width: calc((100%/36)*26);
+}
+
+.col-27{
+    width: calc((100%/36)*27);
+}
+
+.col-28{
+    width: calc((100%/36)*28);
+}
+
+.col-29{
+    width: calc((100%/36)*29);
+}
+
+.col-30{
+    width: calc((100%/36)*30);
+}
+
+.col-31{
+    width: calc((100%/36)*31);
+}
+
+.col-32{
+    width: calc((100%/36)*32);
+}
+
+.col-33{
+    width: calc((100%/36)*33);
+}
+
+.col-34{
+    width: calc((100%/36)*34);
+}
+
+.col-35{
+    width: calc((100%/36)*35);
+}
+
+.col-36{
+    width: calc((100%/36)*36);
+}
+
+
+
+
+/* offset colonne 
+
+.col-offset-1{
+    margin-left: calc((100%/12)*1);
+}
+
+*/
