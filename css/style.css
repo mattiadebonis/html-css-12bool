@@ -9,7 +9,6 @@
 .row{
     height:200px;
     background-color: rgb(255,192,203);
-    border: 1px solid black;
 }
 
 .row::after{
@@ -19,9 +18,15 @@
 }
 
 [class*="col-"]{
-    border-left: 1px solid black;
-    border-right: 1px solid black;
+    border: 1px solid black;
     height: 100%;
     text-align: center;
     line-height: 200px;
+    padding: 5px;
+
+}
+
+.nested{
+    border-color: white;
+    background-color: rgb(240,128,128);
 }
