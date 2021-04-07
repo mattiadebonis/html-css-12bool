@@ -151,10 +151,150 @@
 
 
 
-/* offset colonne 
+/* offset colonne */
 
 .col-offset-1{
-    margin-left: calc((100%/12)*1);
+    margin-left: calc((100%/36)*1);
 }
 
-*/
+.col-offset-2{
+    margin-left: calc((100%/36)*2);
+}
+
+.col-offset-3{
+    margin-left: calc((100%/36)*3);
+}
+
+.col-offset-4{
+    margin-left: calc((100%/36)*4);
+}
+
+.col-offset-5{
+    margin-left: calc((100%/36)*5);
+}
+
+.col-offset-6{
+    margin-left: calc((100%/36)*6);
+}
+
+.col-offset-7{
+    margin-left: calc((100%/36)*7);
+}
+
+.col-offset-8{
+    margin-left: calc((100%/36)*8);
+}
+
+.col-offset-9{
+    margin-left: calc((100%/36)*9);
+}
+
+.col-offset-10{
+    margin-left: calc((100%/36)*10);
+}
+
+.col-offset-11{
+    margin-left: calc((100%/36)*11);
+}
+
+.col-offset-12{
+    margin-left: calc((100%/36)*36);
+}
+
+.col-offset-13{
+    margin-left: calc((100%/36)*13);
+}
+
+.col-offset-14{
+    margin-left: calc((100%/36)*14);
+}
+
+.col-offset-15{
+    margin-left: calc((100%/36)*15);
+}
+
+.col-offset-16{
+    margin-left: calc((100%/36)*16);
+}
+
+.col-offset-17{
+    margin-left: calc((100%/36)*17);
+}
+
+.col-offset-18{
+    margin-left: calc((100%/36)*18);
+}
+
+.col-offset-19{
+    margin-left: calc((100%/36)*19);
+}
+
+.col-offset-20{
+    margin-left: calc((100%/36)*20);
+}
+
+.col-offset-21{
+    margin-left: calc((100%/36)*21);
+}
+
+.col-offset-22{
+    margin-left: calc((100%/36)*22);
+}
+
+.col-offset-23{
+    margin-left: calc((100%/36)*23);
+}
+
+.col-offset-24{
+    margin-left: calc((100%/36)*24);
+}
+
+.col-offset-25{
+    margin-left: calc((100%/36)*25);
+}
+
+.col-offset-26{
+    margin-left: calc((100%/36)*26);
+}
+
+.col-offset-27{
+    margin-left: calc((100%/36)*27);
+}
+
+.col-offset-28{
+    margin-left: calc((100%/36)*28);
+}
+
+.col-offset-29{
+    margin-left: calc((100%/36)*29);
+}
+
+.col-offset-30{
+    margin-left: calc((100%/36)*30);
+}
+
+.col-offset-31{
+    margin-left: calc((100%/36)*31);
+}
+
+.col-offset-32{
+    margin-left: calc((100%/36)*32);
+}
+
+.col-offset-33{
+    margin-left: calc((100%/36)*33);
+}
+
+.col-offset-34{
+    margin-left: calc((100%/36)*34);
+}
+
+.col-offset-35{
+    margin-left: calc((100%/36)*35);
+}
+
+.col-offset-36{
+    margin-left: calc((100%/36)*36);
+}
+
+
