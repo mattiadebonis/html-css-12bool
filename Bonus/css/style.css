@@ -4,20 +4,18 @@
     padding: 0;
 }
 
+
 .mario-draghi{
-    background-position: center;
-  
-    position: relative;
-    height: 900px;
+    background-attachment: fixed;
+    height: 800px;
     background-image: url(../img/mario-draghi.jpeg);
     background-repeat: no-repeat;
+    padding-left: 850px; 
+    padding-top: 380px;
     
 }
 
 .container{
-    position: absolute;
-    top: 40%;
-    right: 5%;    
     width: 360px;    
 }
 
