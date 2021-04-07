@@ -148,11 +148,7 @@
     width: calc((100%/36)*36);
 }
 
-
-
-
-/* offset colonne baby yoda*/
-
+/* offset colonne Baby Yoda*/
 .col-offset-1{
     margin-left: calc((100%/36)*1);
 }

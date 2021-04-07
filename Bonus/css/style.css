@@ -4,21 +4,19 @@
     padding: 0;
 }
 
-
-.mario-draghi{
-    background-attachment: fixed;
-    height: 800px;
+/* Mario Draghi*/
+.sfondo{
     background-image: url(../img/mario-draghi.jpeg);
     background-repeat: no-repeat;
+    height: 810px;
     padding-left: 850px; 
     padding-top: 380px;
-    
 }
 
+/* Baby Yoda */
 .container{
     width: 360px;    
 }
-
 
 .row{
     height: 10px;
@@ -31,6 +29,7 @@
     clear: both;
 }
 
+/* colori Baby Yoda */
 .black{
     background-color: black;
 }
@@ -42,9 +41,11 @@
 .pink{
     background-color: pink;
 }
+
 .white{
     background-color: white;
 }
+
 .brown{
     background-color: brown;
 }
