@@ -16,21 +16,18 @@
 .container{
     position: absolute;
     top: 50%;
-    right: 10%;    
-    background-color: red;
+    right: 5%;    
     width: 360px;    
 
 }
-.container::after{
-    disppl
-}
+
 
 .row{
     height: 10px;
 
 }
 
-.container::after{
+.row::after{
     content: "";
     display: table;
     clear: both;
@@ -42,4 +39,14 @@
 
 .green{
     background-color: green;
+}
+
+.pink{
+    background-color: pink;
+}
+.white{
+    background-color: white;
+}
+.brown{
+    background-color: brown;
 }
