@@ -5,6 +5,11 @@
 }
 
 
+/*margini della pagina*/
+.margin-page{
+    width: 65%;
+    margin: 0 auto;
+}
 
 .row{
     height:200px;
@@ -23,7 +28,6 @@
     text-align: center;
     line-height: 200px;
     padding: 5px;
-
 }
 
 .nested{
